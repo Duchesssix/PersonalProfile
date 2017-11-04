@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Personal Profile</string>
+    <string name="txt_header">Dawn</string>
+    <string name="txt_caption">Robert and Dawn Leggett</string>
+    <string name="btn_view">View Profile</string>
+    <string name="txt_bio">Dawn graduated from Western Michigan University with her Bachelor of Science in Health Education.
+      She earned her Masters in Education in Curriculum and Instruction in Science Education in 2008 from National Louis
+      University.  She married Robert Leggett in 1991.  She has two children, Aerin (21) and Austin (19).</string>
+</resources>
